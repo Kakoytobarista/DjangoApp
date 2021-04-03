@@ -1,0 +1,24 @@
+body h1 {
+    color: brown;
+}
+
+form input {
+    margin: 7;
+}
+
+body a {
+    color: black;
+}
+
+ul li {
+    color: red;
+}
+
+li a {
+    color: brown;
+}
+
+body {
+    background: linear-gradient(transparent 50%, rgba(0,186,0,0.2) 50%),
+                linear-gradient(90deg, rgba(0,186,0,0.2) 50%, transparent 50%);
+    background-size: 40px 40px;
